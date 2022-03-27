@@ -1,0 +1,25 @@
+.main {
+    display: flex;
+    border: 1px solid #E2E8F0;
+    border-radius: 2%;
+    width: 19rem;
+}
+.name {
+    color: rgb(105,105,105);
+    font-size: larger;
+}
+.text {
+    color: #a39f9f;
+    margin-left: 8px !important ;
+}
+.image {
+    height: 10rem;
+}
+.imageAbsolute {
+    height: 10rem;
+    width: 100%;
+}
+.lowerButton {
+    cursor: pointer;
+    border: none;
+}

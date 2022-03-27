@@ -1,0 +1,22 @@
+.mainProfile {
+  display: flex;
+  border-radius: 2%;
+  width: 100%;
+}
+.i-common {
+  height: 4rem !important;
+  background-color: #F4F4F4;
+  display: flex;
+  padding: 0.4rem;
+  align-items: center;
+  border-radius: 30px;
+  margin-top: 2% !important;
+  margin-bottom: 2% !important;
+  /* margin-left: 2% !important; */
+  font-size: larger;
+  transition: all 0.3s ease-in-out;
+}
+
+.i-common:hover {
+  transform: scale(1.1);
+}
